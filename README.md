@@ -48,7 +48,7 @@ text
 <!--skill-icons-start-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,visualstudio,c,cpp,java,nextjs,nodejs,postgres,mysql,firebase,arduino,github,gitlab,vercel,netlify,&perline=5" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,git,visualstudio,c,cpp,java,nextjs,nodejs,postgres,mysql,firebase,supabase,arduino,github,gitlab,vercel,netlify,&perline=5" />
   </a>
 </p>
 
