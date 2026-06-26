@@ -4,7 +4,7 @@
 <!--typing-svg-start-->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Software%20Developer;AI%20%26%20Web%20Development;Java%20%7C%20JavaScript%20%7C%20Node.js;Building%20AI-integrated%20study%20tools;Computer%20Studies%20Student&font=Fira%20Code&center=true&width=440&height=45&color=8B5CF6&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Software%20Developer;AI%20%26%20Web%20Development;Java%20%7C%20JavaScript%20%7C%20Node.js;Computer%20Studies%20Student&font=Fira%20Code&center=true&width=440&height=45&color=8B5CF6&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
