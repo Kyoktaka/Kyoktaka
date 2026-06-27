@@ -52,37 +52,17 @@ text
   </a>
 </p>
 
-### AI
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
 <!--featured-projects-->
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🧠 Cerebro — Local-First AI Study Assistant</b></summary>
+<summary><b>🧠 Cerebro — AI Study Assistant</b></summary>
 
-**Project Description:** An AI-powered PDF study assistant that evolved through multiple architectures — from a single-file HTML app with cloud LLM integration, to a full Next.js + Supabase + LangChain RAG system, to its current form: a fully local backend powered by Ollama, built for offline use on low-end devices.
+**Project Description:** Cerebro is a smart study assistant that allows you to upload PDF documents and ask questions based strictly on their content. 
 
-| **Stack** | **Scale** | **Performance** | **Security** | **Impact** | **Repository** |
-|---|---|---|---|---|---|
-| JavaScript, Node.js, Ollama, LangChain, Supabase (earlier versions) | Single-user → multi-session study assistant | Default model Gemma 3n E4B, tuned for low-end hardware; user-configurable model selection | Strict PDF-only response enforcement to prevent hallucinated answers | Enables offline, privacy-preserving AI-assisted studying with no API costs | [github.com/Kyoktaka/Cerebro](https://github.com/Kyoktaka/Cerebro) |
+ [github.com/Kyoktaka/Cerebro](https://github.com/Kyoktaka/Cerebro) |
 
 **Professional Explanation:** Cerebro's core design challenge has been keeping the AI strictly grounded in uploaded material while maintaining a smooth chat experience — including persistent conversations across sessions, PDF chip management in the UI, and a model-selector sidebar so users can pick what fits their hardware.
-</details>
-
-<details>
-<summary><b>🛍️ [ADD PROJECT] — ShopNova</b></summary>
-
-*Placeholder — add description, stack table, and repository link when ready to feature this project.*
-
-</details>
-
-<details>
-<summary><b>🏆 [ADD PROJECT] — HackUCC</b></summary>
-
-*Placeholder — add description, stack table, and repository link when ready to feature this project.*
-
 </details>
 
 ---
@@ -90,38 +70,10 @@ text
 <!--experience-->
 ## 💼 Experience
 
-**[ADD JOB TITLE] · [ADD COMPANY NAME]**
-`[ADD DATE RANGE]`
+**[Freelance]**
+`[2024-Present]`
 
-> [ADD a 1–2 sentence professional description of the role]
-
-- [ADD scope of work bullet point]
-- [ADD scope of work bullet point]
-- [ADD scope of work bullet point]
-
-`[Skill Tag]` `[Skill Tag]` `[Skill Tag]`
-
----
-
-<!--achievements-->
-## 🏆 Achievements
-
-<p align="center">
-<table align="center">
-  <tr>
-    <td align="center"><b>🏅 Recognition</b></td>
-    <td align="center"><b>📌 Details</b></td>
-  </tr>
-  <tr>
-    <td>[ADD ACHIEVEMENT]</td>
-    <td>[ADD DETAILS]</td>
-  </tr>
-  <tr>
-    <td>[ADD ACHIEVEMENT]</td>
-    <td>[ADD DETAILS]</td>
-  </tr>
-</table>
-</p>
+> [Full stack Developer]
 
 ---
 
@@ -131,14 +83,8 @@ text
 ### AWS
 [ADD AWS BADGE / CERT LINK]
 
-### Oracle
-[ADD ORACLE BADGE / CERT LINK]
-
-### NPTEL
-[ADD NPTEL BADGE / CERT LINK]
-
-### Cisco
-[ADD CISCO BADGE / CERT LINK]
+### Google
+[ADD AWS BADGE / CERT LINK]
 
 ---
 
@@ -146,7 +92,7 @@ text
 ## 👨‍💻 Coding Profiles
 
 <p align="center">
-  [ADD LEETCODE PROFILE LINK] · [ADD GEEKSFORGEEKS PROFILE LINK] · [ADD HACKERRANK PROFILE LINK] · [ADD CODECHEF PROFILE LINK]
+  [https://leetcode.com/u/Z9sEbCjLxe/]
 </p>
 
 ---
@@ -202,23 +148,7 @@ text
   <img alt="github-snake" src="https://raw.githubusercontent.com/Kyoktaka/Kyoktaka/output/github-contribution-grid-snake.svg" />
 </picture>
 
----
-
-<!--current-focus-->
-## 🎯 Current Focus
-
 ```yaml
-learning:
-  - Local LLM deployment & optimization (Ollama, Gemma)
-  - RAG architectures and anti-hallucination techniques
-  - Advanced Java OOP and SOLID design principles
-
-building:
-  - Cerebro: offline-first AI study assistant
-
-exploring:
-  - AI-integrated developer tooling
-  - Low-end device performance optimization
 
 open_to:
   - Internships
