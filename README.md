@@ -136,7 +136,7 @@ focus: ["Full-Stack Web Development"],
 </p>
 
 ---
-
+![snake gif](https://github.com/Kyoktaka/Kyoktaka/blob/output/github-snake-dark.svg)
 <!--snake-contribution-->
 ## 🐍 Contribution Snake
 
