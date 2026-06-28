@@ -136,15 +136,11 @@ focus: ["Full-Stack Web Development"],
 </p>
 
 ---
+<div align="center"> 
+  
 ![snake gif](https://github.com/Kyoktaka/Kyoktaka/blob/output/github-snake-dark.svg)
-<!--snake-contribution-->
-## 🐍 Contribution Snake
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kyoktaka/Kyoktaka/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kyoktaka/Kyoktaka/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kyoktaka/Kyoktaka/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ```yaml
 
