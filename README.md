@@ -32,8 +32,6 @@ role: " Aspiring Software Developer",
 focus: ["Full-Stack Web Development"],
 };
 
-text
-
 - 🎓 Studying **Information Technology / Computer Studies**, full-stack web development
 - 🤖 Deep interest in **AI-integrated applications** — from cloud LLM APIs to fully local/offline inference with Ollama
 - 📍 Based in the **Philippines**
@@ -73,7 +71,7 @@ text
 **[Freelance]**
 `[2024-Present]`
 
-> [Full stack Developer]
+> [Full stack Web Developer]
 
 ---
 
@@ -81,10 +79,10 @@ text
 ## 📜 Certifications
 
 ### AWS
-[ADD AWS BADGE / CERT LINK]
+[=====]
 
 ### Google
-[ADD AWS BADGE / CERT LINK]
+[====]
 
 ---
 
