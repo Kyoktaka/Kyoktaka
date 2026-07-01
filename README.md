@@ -29,7 +29,7 @@
 ## 👨‍💻 About Me
 const sunraku = {
 role: " Aspiring Software Developer",
-focus: ["Full-Stack Web Development"],
+focus: ["Full-Stack Development"],
 };
 
 - 🎓 Studying **Information Technology / Computer Studies**, full-stack web development
