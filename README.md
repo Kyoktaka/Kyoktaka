@@ -1,13 +1,6 @@
 <!--capsule-render-wave-banner-start-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,16,24,30&height=200&section=header&text=James%20Wilson%20Alburo&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<!--typing-svg-start-->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20Software%20Developer;AI%20%26%20Web%20Development;Java%20%7C%20JavaScript%20%7C%20Node.js;Computer%20Studies%20Student&font=Fira%20Code&center=true&width=440&height=45&color=8B5CF6&vCenter=true&pause=1000&size=22" />
-  </a>
-</p>
-
 <!--badges-start-->
 <p align="center">
   <a href="https://www.facebook.com/kyoxkouji"><img src="https://img.shields.io/badge/Facebook-7C3AED?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
