@@ -90,9 +90,9 @@ focus: ["Full-Stack Development"],
 
 <!--github-analytics-->
 ## 📊 GitHub Analytics
-
+https://github-stats-extended.vercel.app/api?Kyoktaka=anuraghazra)](https://github.com/stats-organization/github-stats-extended
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/stats-organization/github-stats-extended)">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyoktaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8A2BE2&text_color=C9D1D9" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
