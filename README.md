@@ -1,5 +1,6 @@
 <!--capsule-render-wave-banner-start-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,16,24,30&height=200&section=header&text=James%20Wilson%20Alburo&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,16,24,30&height=200&section=header&text=James%20Wilson%20Alburo&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=85&descAlign=62" />
+<!--capsule-render-wave-banner-end-->
 
 <!--badges-start-->
 <p align="center">
@@ -20,10 +21,12 @@
 
 <!--about-section-->
 ## 👨‍💻 About Me
+```javascript
 const sunraku = {
-role: " Aspiring Software Developer",
-focus: ["Full-Stack Development"],
+  role: "Aspiring Software Developer",
+  focus: ["Full-Stack Development"],
 };
+```
 
 - 🎓 Studying **Information Technology / Computer Studies**, full-stack web development
 - 🤖 Deep interest in **AI-integrated applications** — from cloud LLM APIs to fully local/offline inference with Ollama
@@ -51,9 +54,9 @@ focus: ["Full-Stack Development"],
 
 **Project Description:** Cerebro is a smart study assistant that allows you to upload PDF documents and ask questions based strictly on their content. 
 
- [github.com/Kyoktaka/Cerebro](https://github.com/Kyoktaka/Cerebro) |
+[github.com/Kyoktaka/Cerebro](https://github.com/Kyoktaka/Cerebro)
 
-**Professional Explanation:** Cerebro's core design challenge has been keeping the AI strictly grounded in uploaded material while maintaining a smooth chat experience — including persistent conversations across sessions, PDF chip management in the UI, and a model-selector sidebar so users can pick what fits their hardware.
+**Professional Explanation:** Cerebro's core design challenge has been keeping the AI strictly grounded in uploaded material while maintaining a smooth chat experience — including persistent conversations and intelligent context management.
 </details>
 
 ---
@@ -64,7 +67,7 @@ focus: ["Full-Stack Development"],
 **[Freelance]**
 `[2024-Present]`
 
-> [Full stack Web Developer]
+> Full Stack Web Developer
 
 ---
 
@@ -72,10 +75,10 @@ focus: ["Full-Stack Development"],
 ## 📜 Certifications
 
 ### AWS
-[=====]
+- In Progress
 
 ### Google
-[====]
+- In Progress
 
 ---
 
@@ -83,26 +86,26 @@ focus: ["Full-Stack Development"],
 ## 👨‍💻 Coding Profiles
 
 <p align="center">
-  [https://leetcode.com/u/Z9sEbCjLxe/]
+  <a href="https://leetcode.com/u/Z9sEbCjLxe/">LeetCode</a>
 </p>
 
 ---
 
 <!--github-analytics-->
 ## 📊 GitHub Analytics
-https://github-stats-extended.vercel.app/api?Kyoktaka=anuraghazra)](https://github.com/stats-organization/github-stats-extended
+
 <p align="center">
-  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/stats-organization/github-stats-extended)">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyoktaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8A2BE2&text_color=C9D1D9" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Kyoktaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8A2BE2&text_color=C9D1D9" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyoktaka&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyoktaka&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak Stats" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyoktaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kyoktaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top Languages" />
   </a>
 </p>
 
@@ -129,15 +132,18 @@ https://github-stats-extended.vercel.app/api?Kyoktaka=anuraghazra)](https://gith
 </p>
 
 ---
+
 <div align="center"> 
   
 ![snake gif](https://github.com/Kyoktaka/Kyoktaka/blob/output/github-snake-dark.svg)
+
 </div>
 
+---
 
 ```yaml
-
 open_to:
   - Internships
   - Freelance AI/web projects
   - Open source collaboration
+```
