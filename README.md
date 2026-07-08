@@ -28,8 +28,7 @@ const sunraku = {
 };
 ```
 
-- 🎓 Studying **Information Technology / Computer Studies**, full-stack web development
-- 🤖 Deep interest in **AI-integrated applications** — from cloud LLM APIs to fully local/offline inference with Ollama
+- 🎓 Studying **Information Technology**, full-stack web development
 - 📍 Based in the **Philippines**
 
 **Open To:** Internships · Freelance web/AI projects · Open source collaboration · Junior developer roles
