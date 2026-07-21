@@ -23,7 +23,7 @@
 ## 👨‍💻 About Me
 ```javascript
 const sunraku = {
-  role: "Aspiring Software Developer",
+  role: "Software Developer",
   focus: ["Full-Stack Development"],
 };
 ```
