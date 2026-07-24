@@ -49,7 +49,7 @@ const sunraku = {
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🧠 Cerebro — AI Study Assistant</b></summary>
+<summary><b>Cerebro — AI Study Assistant</b></summary>
 
 **Project Description:** Cerebro is a smart study assistant that allows you to upload PDF documents and ask questions based strictly on their content. 
 
