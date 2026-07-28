@@ -36,7 +36,7 @@ const sunraku = {
 ---
 
 <!--tech-stack-->
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <!--skill-icons-start-->
 <p align="center">
