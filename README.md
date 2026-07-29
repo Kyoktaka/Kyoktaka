@@ -71,7 +71,7 @@ const sunraku = {
 ---
 
 <!--certifications-->
-## 📜 Certifications
+##  Certifications
 
 ### AWS
 - In Progress
