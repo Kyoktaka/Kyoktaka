@@ -1,6 +1,5 @@
 <!--capsule-render-wave-banner-start-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,16,24,30&height=200&section=header&text=James%20Wilson%20Alburo&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=85&descAlign=62" />
-<!--capsule-render-wave-banner-end-->
 
 <!--badges-start-->
 <p align="center">
