@@ -60,7 +60,7 @@ const sunraku = {
 ---
 
 <!--experience-->
-## 💼 Experience
+## Experience
 
 **[Freelance]**
 `[2024-Present]`
@@ -81,7 +81,7 @@ const sunraku = {
 ---
 
 <!--coding-profiles-->
-## 👨‍💻 Coding Profiles
+##  Coding Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/Z9sEbCjLxe/">LeetCode</a>
