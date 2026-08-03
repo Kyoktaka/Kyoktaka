@@ -6,8 +6,7 @@
   <a href="https://www.facebook.com/kyoxkouji"><img src="https://img.shields.io/badge/Facebook-7C3AED?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <a href="https://www.instagram.com/kyoktaka/"><img src="https://img.shields.io/badge/Instagram-6366F1?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <img src="https://img.shields.io/badge/Location-Philippines-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-6C2BD9?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/Kyoktaka"><img src="https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://jameswilsonalburo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6C2BD9?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
