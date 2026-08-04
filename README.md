@@ -1,5 +1,8 @@
 <!--capsule-render-wave-banner-start-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,16,24,30&height=200&section=header&text=James%20Wilson%20Alburo&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=Full-Stack%20Developer%20%7C%" />
+<p align="center">
+  <strong style="font-size:18px">Full-Stack Developer</strong><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,16,24,30&height=200&section=header&text=James%20Wilson%20Alburo&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70" alt="banner" />
+</p>
 
 <!--badges-start-->
 <p align="center">
@@ -53,7 +56,7 @@ const sunraku = {
 
 [github.com/Kyoktaka/Cerebro](https://github.com/Kyoktaka/Cerebro)
 
-**Professional Explanation:** Cerebro's core design challenge has been keeping the AI strictly grounded in uploaded material while maintaining a smooth chat experience — including persistent conversations and intelligent context management.
+**Professional Explanation:** Cerebro's core design challenge has been keeping the AI strictly grounded in uploaded material while maintaining a smooth chat experience — including persistent convers[...]
 </details>
 
 ---
@@ -93,16 +96,16 @@ const sunraku = {
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Kyoktaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8A2BE2&text_color=C9D1D9" alt="GitHub Stats" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Kyoktaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8A2BE2&text_[...]" />
   </a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyoktaka&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak Stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kyoktaka&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=8A2BE2&fire=A78BFA&currStreakLabel=A[...]" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kyoktaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top Languages" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kyoktaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9[...]" />
   </a>
 </p>
 
@@ -124,7 +127,7 @@ const sunraku = {
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyoktaka&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8A2BE2&point=ffffff" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyoktaka&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8A2BE2&point=ffffff" alt="Contribution Graph"[...]" />
   </a>
 </p>
 
@@ -143,4 +146,6 @@ open_to:
   - Internships
   - Freelance AI/web projects
   - Open source collaboration
+```
+
 ```
