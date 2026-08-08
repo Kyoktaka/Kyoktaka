@@ -92,7 +92,7 @@ const sunraku = {
 ---
 
 <!--github-analytics-->
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
@@ -112,7 +112,7 @@ const sunraku = {
 ---
 
 <!--github-trophies-->
-## 🏅 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
