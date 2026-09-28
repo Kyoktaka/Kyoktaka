@@ -5,7 +5,7 @@
 **Frontend:** Javascript, React.js, Next.js  
 **Backend:** Node.js, Php, Java   
 **Databases and Services:** PostgreSQL, MySQL, Firebase, Supabase  
-**Tools:** Git, GitHub, GitLab, Vercel, Netlify, Arduino
+**Tools:** Git, GitHub, GitLab, Vercel, Netlify, Arduino \n
 **App:** React Native, Flutter
 
 
