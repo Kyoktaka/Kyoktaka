@@ -20,4 +20,4 @@ Thanks for visiting my profile.
 
 
 
-![Git Koi](./git-koi.gif)
+<img src="./koi/koi.gif" width="256" alt="Animated Git Koi" />
