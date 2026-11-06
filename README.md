@@ -17,3 +17,5 @@
 - LeetCode: [Z9sEbCjLxe](https://leetcode.com/u/Z9sEbCjLxe/)
 
 Thanks for visiting my profile.
+
+![Git Koi](./git-koi.gif)
