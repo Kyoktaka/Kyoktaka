@@ -10,13 +10,20 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
       - uses: actions/checkout@v4
 
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Install git-koi from source
+        run: cargo install --git https://github.com/yalongwastaken/git-koi --locked
+
       - name: Generate Koi
-        uses: yalongwastaken/git-koi@v1
-        with:
-          username: ${{ github.repository_owner }}
+        run: |
+          # run the generator command here using your repo owner / output path
+          # Example: git-koi --username "${{ github.repository_owner }}" --output ./git-koi.gif
 
       - name: Commit and Push
         run: |
