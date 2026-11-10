@@ -6,7 +6,7 @@
 **Backend:** Node.js, Php, Java, Python   
 **Database:** PostgreSQL, MySQL, Firebase, Supabase    
 **App:** React Native, Dart, Flutter   
-**DevOps Tools:** Git, GitHub, GitLab, Vercel, Netlify, Arduino, LLM 
+**Tools:** Git, GitHub, GitLab, Vercel, Netlify, Arduino, LLM 
 
 
 
