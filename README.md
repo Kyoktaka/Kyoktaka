@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-**Frontend:** Javascript, React.js, Next.js  
+**Frontend:** Javascript, Typescript, React.js, Next.js  
 **Backend:** Node.js, Php, Java, Python   
 **Database:** PostgreSQL, MySQL, Firebase, Supabase    
 **App:** React Native, Dart, Flutter   
